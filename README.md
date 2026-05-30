@@ -1,2 +1,2 @@
 # Zabady-System
-Updater for Zabady Agency
+Simple AutoUpdater for Zabady Agency using version.ini
